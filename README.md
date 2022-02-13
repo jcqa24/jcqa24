@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Juan Carlos Quiroz Aguilar 👋
+---
+
+Soy un apasionado de la programación, complemento la educacion universitaria con mucha educacion autditacta. 
+
+Soy orgullosamente de México :mexico:
+
 
 <!--
 **jcqa24/jcqa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
