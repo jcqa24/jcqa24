@@ -1,9 +1,9 @@
 ### Hi there, I'm Juan Carlos Quiroz Aguilar 👋
 ---
 
-Soy un apasionado de la programación, complemento la educacion universitaria con mucha educacion autditacta. 
+I'm a passionate developer , complement the university education with a lot of self-taught education.
 
-Soy orgullosamente de México :mexico:
+:mexico: I'm proudly Mexican :mexico: 
 
 
 <!--
