@@ -14,7 +14,7 @@ I'm a passionate developer , complement the university education with a lot of s
 ## My Repositories :
 
 * Genetic algorithms
-    * <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>   [BinPaking](https://github.com/jcqa24/bin-packing)   
-    * <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> [N-Queens](https://github.com/jcqa24/NQueens-C) 
-    * [MPI N-Queens](https://github.com/jcqa24/GA-NQUEENS-MPI)
-    * [OpenMP N-Queens](https://github.com/jcqa24/GA-NQUEENS-openMP)
+    * <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30em"/>   [BinPaking](https://github.com/jcqa24/bin-packing)   
+    * <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30em"/> [N-Queens](https://github.com/jcqa24/NQueens-C) 
+    * <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30em"/> [MPI N-Queens](https://github.com/jcqa24/GA-NQUEENS-MPI)
+    * <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30em"/> [OpenMP N-Queens](https://github.com/jcqa24/GA-NQUEENS-openMP)
