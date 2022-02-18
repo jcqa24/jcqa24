@@ -6,17 +6,15 @@ I'm a passionate developer , complement the university education with a lot of s
 :mexico: I'm proudly Mexican :mexico: 
 
 
-<!--
-**jcqa24/jcqa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Themes of interest:
 
-Here are some ideas to get you started:
+* IA
+    * AG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Repositories :
+
+* Genetic algorithms
+    * <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>   [BinPaking](https://github.com/jcqa24/bin-packing)   
+    * <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> [N-Queens](https://github.com/jcqa24/NQueens-C) 
+    * [MPI N-Queens](https://github.com/jcqa24/GA-NQUEENS-MPI)
+    * [OpenMP N-Queens](https://github.com/jcqa24/GA-NQUEENS-openMP)
