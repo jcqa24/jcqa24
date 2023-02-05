@@ -30,3 +30,6 @@ I'm a passionate developer , complement the university education with a lot of s
     * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30em"/> [Conversor Gráfico Decimal Binario](https://github.com/jcqa24/Conversor-Grafico-Decimal-Binario)
     * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30em"/> [Biseccion](https://github.com/jcqa24/Biseccion)
 * ### Courses
+    * <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30em"/> [Java Desde 0 ](https://github.com/jcqa24/Curso-Java)
+    * <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30em"/> [C Desde 0](https://github.com/jcqa24/Curso-C) 
+    * [Curso Pseint](https://github.com/jcqa24/Curso-PseInt) 
