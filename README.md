@@ -6,6 +6,10 @@ I'm a passionate developer , complement the university education with a lot of s
 :mexico: I'm proudly Mexican :mexico: 
 
 
+## More of me
+https://github-readme-stats.vercel.app/api/top-langs/?username={jcqa24}&theme={onedark}
+
+
 ## Themes of interest:
 
 * IA
