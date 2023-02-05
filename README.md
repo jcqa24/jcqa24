@@ -7,7 +7,9 @@ I'm a passionate developer , complement the university education with a lot of s
 
 
 ## More of me
-https://github-readme-stats.vercel.app/api/top-langs/?username={jcqa24}&theme={onedark}
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jcqa24&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcqa24&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Themes of interest:
